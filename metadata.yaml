@@ -1,0 +1,36 @@
+_repo: Twentieth-Century-French-Writers-Reviews-and-Reminiscences_67992
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robinson, A. Mary F. (Agnes Mary Frances)
+    aliases:
+    - Darmesteter, Mary
+    - Duclaux, Mary
+    - Robinson, Agnes Mary Frances
+    - Robinson, Mary
+    - Duclaux, Agnes Mary Frances Robinson
+    birthdate: 1857
+    deathdate: 1944
+    gutenberg_agent_id: '6223'
+    url: http://www.gutenberg.org/2009/agents/6223
+    wikipedia: https://en.wikipedia.org/wiki/Agnes_Mary_Frances_Duclaux
+description: ''
+gutenberg_issued: '2022-05-05'
+identifiers:
+  gutenberg: '67992'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924027218100/page/n65/mode/2up
+pgterms:marc905: 20210304142546duclaux
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Andrés V. Galia, Laura (lnatal) and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Scribner,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Twentieth Century French Writers: Reviews and Reminiscences'
+url: http://www.gutenberg.org/ebooks/67992
